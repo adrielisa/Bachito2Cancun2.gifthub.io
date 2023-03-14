@@ -1,0 +1,39 @@
+#logo1{
+    display: inline-block;
+    width: 10%;
+    float:left;
+    
+}
+#logo2{
+    display: inline-block;
+    width: 10%;
+    text-align: center;
+}
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+
+}
+#barra{
+    clear: both;
+    text-align: center;
+}
+.menu{
+    display: inline-block;
+    width: 16%;
+    background-color: cadetblue;
+    font-size: 20px;
+    text-align: center;
+    border: solid;
+}
+#marco{
+   width: 99%;
+    padding: 10px;
+    height: 400px;
+}
+#piegrande{
+    text-align: center;
+    font-size: 20;
+    border: groove;
+}

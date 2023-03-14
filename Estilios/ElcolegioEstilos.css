@@ -1,0 +1,14 @@
+
+#texto{
+      font-style: cursive;
+  font-weight: bold;
+    
+}
+.imagenes{
+     display: flex;
+      }
+     
+.imagenes:first-child {
+  margin-right: 10px;
+}
+    
